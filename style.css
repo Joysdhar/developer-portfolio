@@ -1,0 +1,38 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.joy{
+    width: 50%;
+    padding-left: 10%;
+}
+.joy img{
+    width: 100%;
+    padding-top: 40px;
+}
+.link{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: oldlace;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px; 
+    text-decoration: none;
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+    font-family: fantasy;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
